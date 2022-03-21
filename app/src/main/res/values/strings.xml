@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TMDB</string>
+    <string name="sort_by_popularity">Sort By Popularity</string>
+    <string name="sort_by_date">Sort By Date</string>
+    <string name="show_favorite">Show Favorite</string>
+    <string name="movie_image">movie image</string>
+    <string name="release_date_with_string">Realease Date : %s</string>
+    <string name="summary">Summary</string>
+    <string name="popularity_f">Popularity: %s</string>
+</resources>
